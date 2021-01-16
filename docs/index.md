@@ -1,2 +1,2 @@
-ai2table documentation palceholder 
+ai2table documentation palceholder..
 
